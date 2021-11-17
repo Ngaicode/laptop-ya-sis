@@ -1,0 +1,6 @@
+x = "love"
+print (x)
+
+
+
+
