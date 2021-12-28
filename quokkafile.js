@@ -1,3 +1,4 @@
+'use strict';
 const wagwan = "mimi";
 console.log(wagwan);
 

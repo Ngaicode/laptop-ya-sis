@@ -10,5 +10,5 @@ function iAmBlessed() {
 }
 
 // calling the function
-// iAmBlessed();
+iAmBlessed();
 
